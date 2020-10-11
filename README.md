@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋,
 
-<!--
-**DarshanPH/DarshanPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Darshan, interested in real word problem solving using full stack development
 
-Here are some ideas to get you started:
+⚙️ Currently Studing at, NMIT(💻) Bangalore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+// I Love to live a life in my own Style 😎 // Make ideas different then others🤳 // Self Motivater💪🏻 // Self learner🤘🏻 
+
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Everything😜
+- 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about future Plan
+- ⚡ Fun fact: Above All🤣
+
+### Interested Topics
+🌏 - <b>Web Development</b> <br>
+📱 - <b> Android Development </b> <br>
+💻 - <b> React  <b> <br>
+
+Not Believe in <b> karma </b>, Believe in <b> hard work </b> <br>
+<b> Motivation - If you accept anything is impossible in this word then only impossible </b>😎 
