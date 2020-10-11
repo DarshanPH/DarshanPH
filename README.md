@@ -9,7 +9,6 @@ My name is Darshan, interested in real word problem solving using full stack dev
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning Everything😜
 - 👯 I’m looking to collaborate with other developers
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about future Plan
 - ⚡ Fun fact: Above All🤣
 
