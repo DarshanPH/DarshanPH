@@ -18,4 +18,4 @@ My name is Darshan, interested in real word problem solving using full stack dev
 💻 - <b> React  <b> <br>
 
 Not Believe in <b> karma </b>, Believe in <b> hard work </b> <br>
-<b> Motivation - If you accept anything is impossible in this word then only impossible </b>😎 
+<b> Motivation - If you accept anything is impossible then only impossible </b>😎 
